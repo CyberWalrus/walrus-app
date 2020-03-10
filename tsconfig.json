@@ -19,8 +19,8 @@
       "@containers/*": ["./src/containers/*"],
       "@hooks/*": ["./src/hooks/*"],
       "@pages/*": ["./src/pages/*"],
-      "@store/*": ["./src/store/*"],
-      "@types/*": ["./src/types/*"],
+      "@stores/*": ["./src/stores/*"],
+      "@custom-types/*": ["./src/custom-types/*"],
       "@utils/*": ["./src/utils/*"],
       "@src/*": ["./src/*"],
       "@build/*": ["./build/*"]
